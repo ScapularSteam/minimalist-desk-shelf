@@ -3,6 +3,8 @@ This project details the design and creation of a bespoke, minimalistic desk she
 
 
 
+![image](https://github.com/ScapularSteam/minimalist-desk-shelf/blob/main/desk-shelf-render-front.png?raw=true)
+
 
 ## FAQ
 
