@@ -34,9 +34,6 @@ Image: *One of the drawers filled with PCBs and small electronic components. Ple
 ## License
 
 This project has been licensed under CC BY-NC 4.0.
-
-I would have prefered to use a more permissive, open-source licence, however this project has been submitted to AQA for marking, but a final grade for the qualification has not been submitted, and I feel the need to mitigate the risks of publishing my work.
-
-You can find the full details of the licence at the link below:
+This license isn't perfect, but as this project was submitted to the exam board, forcing accreditation allows me to remain as the original author, preventing claims arising from malpractice
 
 https://github.com/ScapularSteam/minimalist-desk-shelf/blob/main/LICENSE.md
